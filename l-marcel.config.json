@@ -1,5 +1,5 @@
 {
-  "translatedDescription": "Aplicação criada na trilha do React.js usando o Next.js. É apresentado aqui métodos como o memo, useMemu, useCallback e o dynamic do Next.js, bem como as vantagens de se utilizar virtualização em alguns casos.",
+  "translatedDescription": "Aplicação ciada na trilha React.js. Foram apresentados métodos para otimizar a aplicação como memo, useMemo, useCallback e importação dinâmica Next.js.",
   "technologies": [
     "Next.js",
     "React.js",
